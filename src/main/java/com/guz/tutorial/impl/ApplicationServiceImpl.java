@@ -10,6 +10,6 @@ import com.guz.tutorial.api.ApplicationService;
 public class ApplicationServiceImpl implements ApplicationService {
 
     public void doSomeApplicationUsecase() {
-        // do some logic
+        // do some logic here
     }
 }
